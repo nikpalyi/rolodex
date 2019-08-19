@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+h2 {
+  font-family: 'QuickSand';
+  font-size: 72px;
+  color: white;
+}

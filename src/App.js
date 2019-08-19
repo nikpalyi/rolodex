@@ -40,6 +40,7 @@ class App extends Component {
 
     return (
       <div className='App'>
+        <h2>Rolodex</h2>
         <SearchBox
           placeholder='search name, email'
           handleChange={this.handleChange}

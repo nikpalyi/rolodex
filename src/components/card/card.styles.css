@@ -1,8 +1,8 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  background-color: #95dada;
-  border: 1px solid grey;
+  background-color: #3be8b0;
+  border: 0px solid grey;
   border-radius: 5px;
   padding: 25px;
   cursor: pointer;
@@ -10,6 +10,7 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
+  font-family: 'Lexend Exa';
 }
 
 .card-container:hover {
