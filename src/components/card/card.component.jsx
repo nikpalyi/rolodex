@@ -7,11 +7,7 @@ export const Card = props => (
       alt='monster'
       src={`https://source.unsplash.com/collection/${props.monster.id}/280x280`}
     />
-    <h3>{props.monster.name} </h3>
-    <p> {props.monster.email}</p>
+    <h3 style={{ fontSize: '2rem' }}>{props.monster.name} </h3>
+    <p style={{ fontSize: '1.5rem' }}> {props.monster.email}</p>
   </div>
 );
-
-//src={`https://picsum.photos/id/${props.monster.id}/300/200`}
-
-//https://source.unsplash.com/collection/${props.monster.id}/480x480

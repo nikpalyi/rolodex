@@ -3,7 +3,8 @@
   border: none;
   outline: none;
   padding: 10px;
-  width: 150px;
+  width: 250px;
   line-height: 30px;
   margin-bottom: 30px;
+  border-radius: 15px;
 }

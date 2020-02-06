@@ -40,9 +40,9 @@ class App extends Component {
 
     return (
       <div className='App'>
-        <h2>Rolodex</h2>
+        <h2>Email address list</h2>
         <SearchBox
-          placeholder='search name, email'
+          placeholder='TYPE NAME OR EMAIL...'
           handleChange={this.handleChange}
         />
         <CardList monsters={filteredMonsters} />

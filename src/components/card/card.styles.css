@@ -1,16 +1,16 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  background-color: #3be8b0;
+  background-color: #f27121;
   border: 0px solid grey;
-  border-radius: 5px;
+  border-radius: 25px;
   padding: 25px;
   cursor: pointer;
   -moz-osx-font-smoothing: grayscale;
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
-  font-family: 'Lexend Exa';
+  font-family: 'Lato';
 }
 
 .card-container:hover {
