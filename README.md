@@ -4,6 +4,6 @@ Demo at https://nikpalyi.github.io/rolodex/
 
 ![Alt text](address-list.png 'Address List')
 
-#Steps to run:
-#npm install
-#npm start
+Steps to run:<br />
+npm install<br />
+npm start<br />
